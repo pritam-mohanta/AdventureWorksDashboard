@@ -124,8 +124,9 @@ Dashboard Development
         ↓
 Business Insights
 
+```
 
-## 🎯 Skills Demonstrated
+### 🎯 Skills Demonstrated
 
 - Power BI Dashboard Development
 - Power Query & Data Transformation
